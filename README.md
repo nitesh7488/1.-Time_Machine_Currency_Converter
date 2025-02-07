@@ -26,3 +26,8 @@ A simple web-based currency converter using HTML, CSS, and JavaScript. Converts 
 ## License
 
 MIT License
+
+OUTPUT
+
+![Screenshot (37)](https://github.com/user-attachments/assets/541b27e6-0b81-45b9-ab9a-b6975934d252)
+
